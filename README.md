@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ravindu Sasanka</h1>
+<h3 align="center">AI / Machine Learning Enthusiast | IT Undergraduate</h3>
 
-<!--
-**rvrv1234/rvrv1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="mailto:ravindusasanka808@gmail.com">
+<img src="https://img.shields.io/badge/Email-ravindusasanka808@gmail.com-red?style=for-the-badge&logo=gmail">
+</a>
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/ravindu-sasanka-825b72307/">
+<img src="https://img.shields.io/badge/LinkedIn-Ravindu%20Sasanka-blue?style=for-the-badge&logo=linkedin">
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me
+
+- 🎓 IT Undergraduate at **University of Kelaniya**
+- 🤖 Passionate about **Artificial Intelligence and Machine Learning**
+- 🧠 Experience building **machine learning models using Python and TensorFlow**
+- 💻 Interested in **AI Engineering, Data Engineering, and Backend Development**
+- 📫 Reach me at **ravindusasanka808@gmail.com**
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ravindu-sasanka-825b72307/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/rvrv1234">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+</p>
+
+---
+
+## 💻 Languages and Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,nodejs,express,mysql,postgres,mongodb,firebase,tensorflow,git,github,vscode"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvrv1234&layout=compact&theme=github_dark"/>
+
+</p>
