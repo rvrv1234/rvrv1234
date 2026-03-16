@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravindu Sasanka</h1>
-<h3 align="center">Software Engineering and AI / ML Enthusiast | IT Undergraduate</h3>
+<h3 align="center">Software Engineering  &  AI / ML Enthusiast | IT Undergraduate</h3>
 
 <p align="center">
 <a href="mailto:ravindusasanka808@gmail.com">
